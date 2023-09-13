@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bee370d-b7c9-48b1-b72c-0a2ce5130b88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controllers/ControllerServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/GrantAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entities/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reponsitories/AcccountReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reponsitories/LogReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reponsitories/RoleReponsitory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/AccountServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/RoleServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +63,24 @@
       <option name="presentableId" value="Default" />
       <updated>1694607481672</updated>
       <workItem from="1694607482787" duration="19000" />
-      <workItem from="1694607508152" duration="339000" />
+      <workItem from="1694607508152" duration="1273000" />
     </task>
+    <task id="LOCAL-00001" summary="create pj">
+      <option name="closed" value="true" />
+      <created>1694608030264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694608030264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create pj" />
+    <option name="LAST_COMMIT_MESSAGE" value="create pj" />
   </component>
 </project>
