@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bee370d-b7c9-48b1-b72c-0a2ce5130b88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/fileScriptSQL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/GrantAccess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/GrantAccess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/entities/Role.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,7 @@
       <list>
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -46,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "T:/NguyenMinhDuy_Week2/week01_lab_NguyenMinhDuy_20099491/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +61,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\NguyenMinhDuy_Week2\week01_lab_NguyenMinhDuy_20099491\src\main\java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694607481672</updated>
       <workItem from="1694607482787" duration="19000" />
-      <workItem from="1694607508152" duration="1273000" />
+      <workItem from="1694607508152" duration="3444000" />
     </task>
     <task id="LOCAL-00001" summary="create pj">
       <option name="closed" value="true" />
@@ -73,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694608030264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add file week1">
+      <option name="closed" value="true" />
+      <created>1694609336187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694609336187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create pj" />
-    <option name="LAST_COMMIT_MESSAGE" value="create pj" />
+    <MESSAGE value="add file week1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file week1" />
   </component>
 </project>
